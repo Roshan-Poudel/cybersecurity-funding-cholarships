@@ -1,5 +1,5 @@
 # CyberSecurity-Academic-Scholarships
- Some time ago, I put together a personal list of cybersecurity resources, including various funding opportunities and scholarships for undergraduate and graduate students pursuing cybersecurity. If you know of any additional scholarships, feel free to submit a pull request to add them to the list.
+ Some time ago, I curated a personal list of cybersecurity resources, including various funding opportunities and scholarships for undergraduate and graduate students pursuing cybersecurity. If you know of any additional scholarships, feel free to submit a pull request to add them to the list.
  | Scholarship name  | Study Level    | Value      | Eligible Gender | Available | Link                                                   | 
  |-------------------|----------------| -----------|--------|--------| -------------------------------------------------------   |
  | ISC2 Undergraduate| Undergraduate  | $1000-5000 |  All   | Global |  https://www.iamcybersafe.org/s/undergraduate-scholarships |
